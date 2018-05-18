@@ -1,0 +1,9 @@
+1. To run tensorboard do, 
+tensorboard --logdir=/home/sachin/Machine_Learning_Projects/AOD_Net/logs/
+Then visit http://localhost:6006
+
+
+2. AOD-Net model can be found here.
+aod_net.ipynb
+
+3. To add haze cd to haze_addition_monodepth and use haze_adder.ipynb notebook
